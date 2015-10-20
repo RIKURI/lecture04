@@ -1,3 +1,3 @@
 function id(value){
-  return value 
+  return value
 }
